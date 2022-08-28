@@ -9,7 +9,8 @@
 
 <br />
 
-## 🖥 Machine Learning / Deep Learning Projects
+
+## <img align="center" src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="35\3" height="33"> Machine Learning / Deep Learning Projects
 - **Desnoising Images using AutoEncoder** ( Aug 2022 ) → [repository](https://github.com/HarryChenTw/Autoencoder-Denoising)
 
   `Unsupervised Learning` `AutoEncoder` `PyTorch`
@@ -28,7 +29,7 @@
   `Binary Classification` `Random Forest` `Feature Importance`
   
   
-## 📊 Data Related / Data Analysis Projects
+## <img align="center" src="https://cdn-icons-png.flaticon.com/512/3090/3090011.png" width="35\3" height="33"> Data Related / Data Analysis Projects
 - **Web Scraping of Basketball Game Statistics** ( Jun 2022 ) → [repository](https://github.com/HarryChenTw/P.League-Stats-Scraper)
 
   `Selenium` `Web Scraping`
