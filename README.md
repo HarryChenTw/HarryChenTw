@@ -18,6 +18,10 @@
 - **Re-implementation of RNATracker Model** ( Jul 2021 - Sep 2021 )
 
   `PyTroch` `Multi-class Classification`
+  
+- **De-identification for Clinical Dialogue Data** ( Oct 2020 - Feb 2021 )
+  
+  `Bert` `Time-serie` `Name Entity Recognition`
 
 - **Employee Attrition Prediction** ( Dec 2020 ) → [repository](https://github.com/HarryChenTw/employee-attrition-prediction)
 
