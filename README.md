@@ -28,7 +28,7 @@
   `Binary Classification` `Random Forest` `Feature Importance`
   
   
-## 📊 Data Related / Deep Analysis Projects
+## 📊 Data Related / Data Analysis Projects
 - **Web Scraping of Basketball Game Statistics** ( Jun 2022 ) → [repository](https://github.com/HarryChenTw/P.League-Stats-Scraper)
 
   `Selenium` `Web Scraping`
