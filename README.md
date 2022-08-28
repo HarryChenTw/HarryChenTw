@@ -9,13 +9,10 @@
 
 <br />
 
-## Machine Learning / Deep Learning Projects
-- **Desnoising Images using AutoEncoder** (  ) → 
+## 🖥 Machine Learning / Deep Learning Projects
+- **Desnoising Images using AutoEncoder** ( Aug 2022 ) → [repository](https://github.com/HarryChenTw/Autoencoder-Denoising)
 
   `Unsupervised Learning` `AutoEncoder` `PyTorch`
-  
-  - Aug 2022
-  - [repository](https://github.com/HarryChenTw/Autoencoder-Denoising)
   
 - **Re-implementation of RNATracker Model** ( Jul 2021 - Sep 2021 )
 
@@ -31,7 +28,7 @@
   `Binary Classification` `Random Forest` `Feature Importance`
   
   
-## Data Related / Deep Analysis Projects
+## 📊 Data Related / Deep Analysis Projects
 - **Web Scraping of Basketball Game Statistics** ( Jun 2022 ) → [repository](https://github.com/HarryChenTw/P.League-Stats-Scraper)
 
   `Selenium` `Web Scraping`
