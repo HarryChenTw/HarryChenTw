@@ -10,10 +10,12 @@
 <br />
 
 ## Machine Learning / Deep Learning Projects
-- **Desnoising Images using AutoEncoder** ( Aug 2022 ) → [repository](https://github.com/HarryChenTw/Autoencoder-Denoising)
+- **Desnoising Images using AutoEncoder** (  ) → 
 
   `Unsupervised Learning` `AutoEncoder` `PyTorch`
   
+  - Aug 2022
+  - [repository](https://github.com/HarryChenTw/Autoencoder-Denoising)
   
 - **Re-implementation of RNATracker Model** ( Jul 2021 - Sep 2021 )
 
