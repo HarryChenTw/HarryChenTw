@@ -17,7 +17,7 @@
   
 - **Re-implementation of RNATracker Model** ( Jul 2021 - Sep 2021 )
 
-  `PyTroch` `Multi-class Classification`
+  `PyTroch` `Multi-class Classification` `CNN-RNN`
   
 - **De-identification for Clinical Dialogue Data** ( Oct 2020 - Feb 2021 )
   
