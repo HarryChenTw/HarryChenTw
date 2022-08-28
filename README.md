@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, It's Harry 🙋🏽‍♂️
+- 📫  whchen0630@gmail.com 
+- <img align="center" src="http://mbem.fr/wp-content/uploads/2018/07/linkedin-logo-copy.png" width="20" height="20"> [Harry Chen](www.linkedin.com/in/harrychentw)
 
 <!--
 **HarryChenTw/HarryChenTw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
