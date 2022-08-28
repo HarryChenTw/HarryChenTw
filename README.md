@@ -30,7 +30,7 @@
   
   
 ## <img align="center" src="https://cdn-icons-png.flaticon.com/512/3090/3090011.png" width="35\3" height="33"> Data Related / Data Analysis Projects
-- **Web Scraping of Basketball Game Statistics** ( Jun 2022 ) → [repository](https://github.com/HarryChenTw/P.League-Stats-Scraper)
+- **Web Scraping of Basketball Game Statistics** ( May 2022 - Jun 2022 ) → [repository](https://github.com/HarryChenTw/P.League-Stats-Scraper)
 
   `Selenium` `Web Scraping`
 
