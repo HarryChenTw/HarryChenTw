@@ -10,7 +10,7 @@
 <br />
 
 ## Machine Learning / Deep Learning Projects
-- **Desnoising Images using AutoEncoder** ( Aug 2022 ) -> [repository](https://github.com/HarryChenTw/Autoencoder-Denoising)
+- **Desnoising Images using AutoEncoder** ( Aug 2022 ) → [repository](https://github.com/HarryChenTw/Autoencoder-Denoising)
 
   `Unsupervised Learning` `AutoEncoder` `PyTorch`
   
@@ -19,17 +19,21 @@
 
   `PyTroch` `Multi-class Classification`
 
-- **Employee Attrition Prediction** ( Dec 2020 ) -> [repository](https://github.com/HarryChenTw/employee-attrition-prediction)
+- **Employee Attrition Prediction** ( Dec 2020 ) → [repository](https://github.com/HarryChenTw/employee-attrition-prediction)
 
   `Binary Classification` `Imbalance Data` `Upsampling` 
   
 
-- **Heart Disease Prediction** ( Apr 2020 - May 2020 ) -> [repository](https://github.com/HarryChenTw/heart-disease-prediction-and-analysis)
+- **Heart Disease Prediction** ( Apr 2020 - May 2020 ) → [repository](https://github.com/HarryChenTw/heart-disease-prediction-and-analysis)
 
   `Binary Classification` `Random Forest` `Feature Importance`
   
   
 ## Data Related / Deep Analysis Projects
-- **Web Scraping of Basketball Game Statistics** ( Jun 2022 ) -> [repository](https://github.com/HarryChenTw/P.League-Stats-Scraper)
+- **Web Scraping of Basketball Game Statistics** ( Jun 2022 ) → [repository](https://github.com/HarryChenTw/P.League-Stats-Scraper)
 
-- **Analysis of Basketball Game / Player Statistics** ( Jun 2022 - Jul 2022 ) -> [repository](https://github.com/HarryChenTw/Basketball-Analysis)
+  `Selenium` `Web Scraping`
+
+- **Analysis of Basketball Game / Player Statistics** ( Jun 2022 - Jul 2022 ) → [repository](https://github.com/HarryChenTw/Basketball-Analysis)
+
+  `Data Analysis` `Clustering`
