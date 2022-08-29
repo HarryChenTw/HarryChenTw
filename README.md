@@ -15,7 +15,7 @@
 
   `Unsupervised Learning` `AutoEncoder` `PyTorch`
   
-- **Re-implementation of RNATracker Model** ( Jul 2021 - Sep 2021 )
+- **Re-implementation of RNATracker Model** ( Jul 2021 - Sep 2021 ) → [repository](https://github.com/HarryChenTw/RNATracker)
 
   `PyTroch` `Multi-class Classification` `CNN-RNN`
   
