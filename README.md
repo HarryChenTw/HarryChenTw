@@ -40,4 +40,4 @@
 
 - **Analysis of Basketball Game / Player Statistics** ( Jun 2022 - Jul 2022 ) → [repository](https://github.com/HarryChenTw/Basketball-Analysis)
 
-  `Data Analysis` `Clustering`
+  `Data Analysis` `Clustering` `Data Visualization`
