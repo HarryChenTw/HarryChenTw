@@ -13,7 +13,7 @@
 ## <img align="center" src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="35\3" height="33"> Machine Learning / Deep Learning Projects
 - **Desnoising Images using AutoEncoder** ( Aug 2022 ) → [repository](https://github.com/HarryChenTw/Autoencoder-Denoising)
 
-  `Unsupervised Learning` `AutoEncoder` `PyTorch`
+  `PyTorch` `Unsupervised Learning` `AutoEncoder` 
   
 - **Re-implementation of RNATracker Model** ( Aug 2021 - Sep 2021 ) → [repository](https://github.com/HarryChenTw/RNATracker)
 
