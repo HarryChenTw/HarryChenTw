@@ -11,9 +11,9 @@
 
 
 ## <img align="center" src="icon/NN.png" width="35\3" height="33"> Machine Learning / Deep Learning Projects
-- **Desnoising Images using AutoEncoder** ( Aug 2022 ) → [repository](https://github.com/HarryChenTw/Autoencoder-Denoising)
+- **Clothes Image Generation using GAN** ( Aug 2022 ) → [repository](https://github.com/HarryChenTw/Clothes-Image-Generation)
 
-  `PyTorch` `Self-supervised Learning` `AutoEncoder` 
+  `PyTorch` `Generative Adversaral Network` `Self-supervised Learning` 
   
 - **Re-implementation of RNATracker Model** ( Aug 2021 - Sep 2021 ) → [repository](https://github.com/HarryChenTw/RNATracker)
 
