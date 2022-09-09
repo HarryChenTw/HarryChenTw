@@ -17,7 +17,7 @@
   
 - **Re-implementation of RNATracker Model** ( Aug 2021 - Sep 2021 ) → [repository](https://github.com/HarryChenTw/RNATracker)
 
-  `PyTroch` `Multi-class Classification` `CNN-RNN`
+  `PyTroch` `Multi-class Classification` `CNN-RNN` `Attention`
   
 - **De-identification for Clinical Dialogue Data** ( Oct 2020 - Feb 2021 )
   
