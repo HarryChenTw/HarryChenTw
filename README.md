@@ -19,7 +19,7 @@
 
   `PyTroch` `Multi-class Classification` `CNN-RNN` `Attention`
   
-- **De-identification for Clinical Dialogue Data** ( Oct 2020 - Feb 2021 )
+- **De-identification for Clinical Dialogue Data** ( Oct 2020 - Feb 2021 ) → [Competition Page](https://aidea-web.tw/topic/d84fabf5-9adf-4e1d-808e-91fbd4e03e6d)
   
   `Bert` `Time-serie` `Name Entity Recognition`
 
