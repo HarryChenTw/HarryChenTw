@@ -21,7 +21,7 @@
   
 - **De-identification for Clinical Dialogue Data** ( Oct 2020 - Feb 2021, rank 48 / 174 ) → [AICup 2020 Competition Page](https://aidea-web.tw/topic/d84fabf5-9adf-4e1d-808e-91fbd4e03e6d)
   
-  `Bert` `Time-serie` `Name Entity Recognition`
+  `Bert` `NLP` `Name Entity Recognition`
 
 - **Employee Attrition Prediction** ( Dec 2020 ) → [repository](https://github.com/HarryChenTw/employee-attrition-prediction)
 
