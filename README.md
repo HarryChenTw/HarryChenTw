@@ -22,15 +22,6 @@
 - **De-identification for Clinical Dialogue Data** ( Oct 2020 - Feb 2021, rank 48 / 174 ) → [AICup 2020 Competition Page](https://aidea-web.tw/topic/d84fabf5-9adf-4e1d-808e-91fbd4e03e6d)
   
   `Bert` `NLP` `Name Entity Recognition`
-
-- **Employee Attrition Prediction** ( Dec 2020 ) → [repository](https://github.com/HarryChenTw/employee-attrition-prediction)
-
-  `Binary Classification` `Imbalance Data` `Upsampling` 
-  
-
-- **Heart Disease Prediction** ( Apr 2020 - May 2020 ) → [repository](https://github.com/HarryChenTw/heart-disease-prediction-and-analysis)
-
-  `Binary Classification` `Random Forest` `Feature Importance`
   
   
 ## <img align="center" src="icon/Insights.png" width="35\3" height="33"> Data Related / Data Analysis Projects
