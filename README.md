@@ -10,7 +10,7 @@
 <br />
 
 ## <img align="center" src="icon/api.png" width="35\3" height="33"> Tools/APIs
-- **Ball Games API** ( Nov 2022 - Dec 2022)→ [repository](https://github.com/HarryChenTw/GamesAPI)
+- **Ball Games API** ( Nov 2022 - Dec 2022 ) → [repository](https://github.com/HarryChenTw/GamesAPI)
 
   `NodeJS (Express.js)` `Python (Selenium)` `MySQL` 
 
